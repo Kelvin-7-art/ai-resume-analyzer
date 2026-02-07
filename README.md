@@ -77,7 +77,9 @@ Make sure to deploy the output of `npm run build`
 │   ├── client/    # Static assets
 │   └── server/    # Server-side code
 ```
-
+## Demo Video
+[https://user-images.githubusercontent.com/xxxxx/your-video.mp4
+](https://github.com/Kelvin-7-art/FUTURE_ML_03/blob/main/Recording%202026-02-07%20171542.mp4)
 ## Styling
 
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
